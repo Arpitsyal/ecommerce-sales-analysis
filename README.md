@@ -24,10 +24,10 @@ Raw data files are not included in this repository. Check the source page for da
 
 ## Visualizations
 Add exported chart PNGs to the `charts/` folder and link them here:
-- `charts/monthly_order_trend.png`
-- `charts/monthly_payment_value_trend.png`
-- `charts/top_product_categories.png`
-- `charts/delivery_review_comparison.png`
+- `monthly_order_trend.png`
+- `monthly_payment_value_trend.png`
+- `top_product_categories.png`
+- `delivery_review_comparison.png`
 
 ## Project Files
 - `ecommerce_analysis.ipynb` — export your notebook from Google Colab and add it here.
