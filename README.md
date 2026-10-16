@@ -22,19 +22,20 @@ Raw data files are not included in this repository. Check the source page for da
 - Among delivered orders with actual and estimated delivery dates, 7,826 were late. The calculated late-delivery rate was 8.11%, and average purchase-to-delivery time was 12.56 days.
 - Late-delivered orders had an average review score of 2.57, compared with 4.29 for on-time orders. This is an association, not proof of causation.
 
+
 ## Visualizations
 
 ### 1. Monthly Order Trend
-![Monthly Order Trend](charts/monthly_orders.png)
+![Monthly Order Trend](monthly_orders.png)
 
 ### 2. Monthly Payment Trend
-![Monthly Payment Trend](charts/monthly_payments.png)
+![Monthly Payment Trend](monthly_payments.png)
 
 ### 3. Top Product Categories
-![Top Product Categories](charts/top_categories.png)
+![Top Product Categories](top_categories.png)
 
 ### 4. Delivery and Review Score Comparison
-![Delivery and Review Score Comparison](charts/delivery_reviews.png)
+![Delivery and Review Score Comparison](delivery_reviews.png)
 
 ## Project Files
 - `ecommerce_analysis.ipynb` — export your notebook from Google Colab and add it here.
