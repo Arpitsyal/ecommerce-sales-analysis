@@ -23,11 +23,18 @@ Raw data files are not included in this repository. Check the source page for da
 - Late-delivered orders had an average review score of 2.57, compared with 4.29 for on-time orders. This is an association, not proof of causation.
 
 ## Visualizations
-Add exported chart PNGs to the `charts/` folder and link them here:
-- `monthly_orders.png`
-- `monthly_payments.png`
-- `top_categories.png`
-- `delivery_reviews.png`
+
+### 1. Monthly Order Trend
+![Monthly Order Trend](charts/monthly_orders.png)
+
+### 2. Monthly Payment Trend
+![Monthly Payment Trend](charts/monthly_payments.png)
+
+### 3. Top Product Categories
+![Top Product Categories](charts/top_categories.png)
+
+### 4. Delivery and Review Score Comparison
+![Delivery and Review Score Comparison](charts/delivery_reviews.png)
 
 ## Project Files
 - `ecommerce_analysis.ipynb` — export your notebook from Google Colab and add it here.
